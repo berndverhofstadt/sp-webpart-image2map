@@ -25,10 +25,6 @@ gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
 
-## Demo & Examples
-
-Live demo: [coldiary.github.io/react-image-mapper](http://coldiary.github.io/react-image-mapper/)
-
 ### Properties
 
 |Props|type|Description|default|
