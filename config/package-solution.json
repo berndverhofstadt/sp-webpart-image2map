@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "image-2-map-client-side-solution",
+    "id": "a5c4aea7-6177-4057-a302-3f946ed7bd59",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/image-2-map.sppkg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "d671d09e-9be7-40dc-8abc-8b10c131172e",
+  "alias": "ImageMappingWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+      "group": {
+        "default": "Other"
+      },
+      "title": {
+        "default": "Image Mapping"
+      },
+      "description": {
+        "default": "Map your image with hyperlinks"
+      },
+      "officeFabricIconFontName": "ImagePixel",
+      "properties": {
+        "title": "Image Mapping",
+        "description": "Select an image, add your mapping and boom there is your clickable image in SharePoint!",
+        "imageHighlight": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "image-2-map",
+    "libraryId": "a5c4aea7-6177-4057-a302-3f946ed7bd59",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
